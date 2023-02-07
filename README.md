@@ -4,6 +4,8 @@ certa porcentagem de materiais recicláveis, assim como aros e bolas. Esse site 
 há um catalogo completo de produtos e o cadastro do usuário é meramente ilustrativo, já que tudo aqui foi feito com o objetivo do aprendizado. Todas as imagens foram
 encontradas em bancos de imagens e a logo também é única.
 
+Sinta-se a vontade para ver o site: https://3umesma.github.io/EcoBasquete/
+
 ## Cursos de apoio (todos da Alura)
 - HTML5 e CSS3: parte 1
   - Conceito de HTML e CSS
